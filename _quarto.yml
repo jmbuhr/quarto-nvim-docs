@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "quarto-nvim-docs"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/jmbuhr/quarto-nvim
+      - icon: twitter
+        href: https://twitter.com/jannikbuhr
+format:
+  html:
+    theme: default
+
+
+
